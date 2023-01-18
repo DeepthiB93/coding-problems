@@ -1,4 +1,4 @@
-package com.geekforgeeks.problems;
+package com.geeksforgeeks.problems;
 
 /*
  * Given a singly linked list of N nodes. 

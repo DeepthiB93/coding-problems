@@ -1,4 +1,4 @@
-package com.geekforgeeks.problems;
+package com.geeksforgeeks.problems;
 
 /*
  * There is a carpet of a size a*b [length * breadth]. You are given a box of size c*d. 
